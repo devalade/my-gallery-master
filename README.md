@@ -47,5 +47,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/devalade)
-- Twitter [@your-twitter](https://twitter.com/dev_alade)
+- GitHub [@devalade](https://github.com/devalade)
+- Twitter [@dev_alade](https://twitter.com/dev_alade)
